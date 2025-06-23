@@ -3,9 +3,9 @@
 Тестовая документация
 [План](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Plan.md) по проверке и автоматизации приложения (`Documentation/Plan.md`)
 
-[Чек-лист](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Check.xlsx) c отметками о пройденных и не пройденных тестах (`Documentation/Check.xlsx`).
+[Чек-лист](https://docs.google.com/spreadsheets/d/1sFtxsQqS8Sf5_tcgG8IPEgjqEkTGAXK7/edit?usp=sharing&ouid=117099805302171674414&rtpof=true&sd=true) c отметками о пройденных и не пройденных тестах (`Documentation/Check.xlsx`).
 
-[Тест-кейсы](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Cases.xlsx) для проверки приложения (`Documentation/Cases.xlsx`).
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/1DO-sH9fojvTz9iyLGSILZb902XwS8AfZ/edit?usp=sharing&ouid=117099805302171674414&rtpof=true&sd=true) для проверки приложения (`Documentation/Cases.xlsx`).
 
 [Баг-репорты](https://github.com/GorElena/Diploma-Project/issues) оформленные как (`issues`).
 
