@@ -1,7 +1,7 @@
 # **Дипломный проект по профессии «Инженер по тестированию»**
 
 Тестовая документация
-[План](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Plan.md) по проверке и автоматизации приложения (`Documentation/Plan.m`)
+[План](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Plan.md) по проверке и автоматизации приложения (`Documentation/Plan.md`)
 
 [Чек-лист](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Check.xlsx) c отметками о пройденных и не пройденных тестах (`Documentation/Check.xlsx`).
 
