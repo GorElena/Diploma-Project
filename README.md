@@ -1,17 +1,17 @@
 # **Дипломный проект по профессии «Инженер по тестированию»**
 
 Тестовая документация
-[План] (https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Plan.md) по проверке и автоматизации приложения (`Documentation/Plan.m`)
+[План](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Plan.md) по проверке и автоматизации приложения (`Documentation/Plan.m`)
 
-[Чек-лист] (https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Check.xlsx) c отметками о пройденных и не пройденных тестах (`Documentation/Check.xlsx`).
+[Чек-лист](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Check.xlsx) c отметками о пройденных и не пройденных тестах (`Documentation/Check.xlsx`).
 
-[Тест-кейсы] (https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Cases.xlsx) для проверки приложения (`Documentation/Cases.xlsx`).
+[Тест-кейсы](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Cases.xlsx) для проверки приложения (`Documentation/Cases.xlsx`).
 
-[Баг-репорты] (https://github.com/GorElena/Diploma-Project/issues) оформленные как (`issues`).
+[Баг-репорты](https://github.com/GorElena/Diploma-Project/issues) оформленные как (`issues`).
 
-[Allure-отчет] (https://github.com/GorElena/Diploma-Project/blob/main/Documentation/allure-results.zip) с результатами прогона авто-тестов, а так же запакованный в (`allure-results.zip`).
+[Allure-отчет](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/allure-results.zip) с результатами прогона авто-тестов, а так же запакованный в (`allure-results.zip`).
 
-[Отчет о тестировании] (https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`Result.md`).
+[Отчет о тестировании](https://github.com/GorElena/Diploma-Project/blob/main/Documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`Result.md`).
 
 
 
@@ -41,7 +41,8 @@
  _Прогресс выполнения будет отображаться в окне «Run»._
 
 **4. Формирование Allure-отчёта**
- Установите [Allure] (https://allurereport.org/docs/install/) на вашем ПК
+
+ Установите [Allure](https://allurereport.org/docs/install/) на вашем ПК
  
 **5. Экспорт результатов тестов**
 После завершения тестов откройте окно Device Explorer в Android Studio (Это можно сделать через поисковик 🔍).
